@@ -1,6 +1,10 @@
 This is text1. this is changed
 change a file
 This is git pull
+<<<<<<< HEAD
 
 
 master
+=======
+This is from branch1
+>>>>>>> branch1
